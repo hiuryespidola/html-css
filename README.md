@@ -3,7 +3,7 @@
 
 <h2>Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!<h2>
 
-<h3>Exercícios do Módulo 1<h3>
+<h3>Exercícios:<h3>
 <a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d001">Executar o exercício 001<a><br>
 <a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d002">Executar o exercício 002<a><br>
 <a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d003">Executar o exercício 003<a><br>
