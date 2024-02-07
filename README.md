@@ -19,5 +19,5 @@
 
 <a href="https://hiuryespidola.github.io/html-css/modulo-2/desafios/d010/android">Executar o projeto Android
 </a><br>
-<a href="https://github.com/hiuryespidola/html-css/blob/main/modulo-3/desafios/d012">Executar o projeto Cordel
+<a href="https://hiuryespidola.github.io/html-css/modulo-3/desafios/d012">Executar o projeto Cordel
 </a><br>
