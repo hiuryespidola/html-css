@@ -5,7 +5,7 @@
 
 <h3>Exercícios:<h3>
 
-<ul>
+<ul type=circle>
     <li><a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d001">Executar o exercício 01</a><br></li>
     <li><a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d002">Executar o exercício 02</a><br></li>
     <li><a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d003">Executar o exercício 03</a><br></li>
