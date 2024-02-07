@@ -1,6 +1,5 @@
 # html-css
  <h1>Curso de HTML5 e CSS3<h1>
-
 <h2>Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!<h2>
 
 <h3>Exercícios:<h3>
