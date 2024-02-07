@@ -5,15 +5,17 @@
 
 <h3>Exercícios:<h3>
 
-<a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d001">Executar o exercício 001</a><br>
-<a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d002">Executar o exercício 002</a><br>
-<a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d003">Executar o exercício 003</a><br>
-<a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d004">Executar o exercício 004</a><br>
-<a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d005">Executar o exercício 005</a><br>
-<a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d006">Executar o exercício 006</a><br>
-<a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d007">Executar o exercício 007</a><br>
-<a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d008">Executar o exercício 008</a><br>
-<a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d009">Executar o exercício 009</a><br>
+<ul>
+    <a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d001">Executar o exercício 01</a><br>
+    <a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d002">Executar o exercício 02</a><br>
+    <a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d003">Executar o exercício 03</a><br>
+    <a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d004">Executar o exercício 04</a><br>
+    <a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d005">Executar o exercício 05</a><br>
+    <a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d006">Executar o exercício 06</a><br>
+    <a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d007">Executar o exercício 07</a><br>
+    <a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d008">Executar o exercício 08</a><br>
+    <a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d009">Executar o exercício 09</a><br>
+</ul>
 
 <h3>Projetos:<h3>
 
