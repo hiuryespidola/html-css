@@ -14,6 +14,8 @@
 <a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d007">Executar o exercício 07</a><br>
 <a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d008">Executar o exercício 08</a><br>
 <a href="https://hiuryespidola.github.io/html-css/modulo-1/desafios/d009">Executar o exercício 09</a><br>
+<a href="https://hiuryespidola.github.io/html-css/modulo-3/desafios/d011">Executar o exercício 10</a><br>
+<a href="https://hiuryespidola.github.io/html-css/modulo-3/desafios/d013">Executar o exercício 11</a><br>
 
 <h3>Projetos:<h3>
 
